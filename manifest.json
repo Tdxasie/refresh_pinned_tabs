@@ -6,8 +6,10 @@
    "manifest_version": 2,
    "name": "Fav Tabs Pinner",
    "version": "1.0",
+   "options_page": "options/options.html",
    "permissions": [
-     "tabs"
+     "tabs",
+     "storage"
    ],
    "background":{
      "scripts": ["background/background.js"]
