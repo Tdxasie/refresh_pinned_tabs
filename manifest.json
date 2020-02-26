@@ -2,7 +2,7 @@
    "browser_action": {
       "default_icon": "icon.png"
    },
-   "description": "Automatically pins Youtube, Facebook and Twitter tabs",
+   "description": "Automatically pins your favorite tabs",
    "manifest_version": 2,
    "name": "Fav Tabs Pinner",
    "version": "1.0",
